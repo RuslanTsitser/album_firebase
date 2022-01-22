@@ -17,5 +17,4 @@ A firebase project. There is a phone authentification. Once you created an accou
 
 ### Example
 
-https://user-images.githubusercontent.com/50975460/150641433-69eecf61-3b70-425a-99c7-799e4a66d282.MOV
-
+https://user-images.githubusercontent.com/50975460/150641782-e796bc65-30b4-4099-b873-5d0308addac0.MOV
