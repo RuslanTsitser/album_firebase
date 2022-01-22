@@ -1,11 +1,20 @@
 # album_firebase
 
-Firebase project
+A firebase project. There is a phone authentification. Once you created an account it will exist in cloud firestore. You can take a photo or select some from your phone library and upload it on your account.
 
-## Getting Started
+## Stack
 
-В этом проекте будут использованы следующие пакеты:
-firebase_auth
-cloud_firestore
-firebase_storage 
-flutter_bloc
+- phone authentification 
+- cloud firestore
+- firebase storage
+
+### Packages:
+
+ - firebase_auth - for authentification
+ - cloud_firestore - NoSQL DataBase 
+ - firebase_storage - for storing photographs
+ - flutter_bloc - state management
+
+### Example
+
+
